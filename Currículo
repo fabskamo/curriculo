@@ -1,0 +1,42 @@
+<!DOCTYPE html> 
+<html lang="pt-BR"> 
+<head> 
+  <link href="style.css" rel="stylesheet">
+  <meta charset="utf-8"> 
+  <title> Meu Currículo </title> 
+  <link href="estilo.css" rel="stylesheet" />
+</head> 
+
+<body> 
+    <h1>
+      Currículo</h1>
+    <h2>Dados Pessoais</h2>
+     
+      <h3>Identificação</h3>
+      <dl>
+        <dt>Nome:</dt>
+        <dd>Fabiana Tieko Kamo</dd>
+        <dt>Idade:</dt>
+        <dd>23</dd>
+        <dt>Telefone:</dt>
+        <dd>(31)999372220</dd>
+      </dl>
+      <h3>Contato</h3>
+       <d1>
+        <dt>Email:</dt>
+        <dd>fabiana.kamo@hotmail.com</dd>
+      </d1>
+    <h2>Formação</h2>
+    <ul>
+      <li>Ensino Médio - CSFX <b>2014</b> </li>
+      
+    </ul>
+    <hr/>
+    <h2>Exp. Profissional</h2>
+    <ol>
+    
+      
+    </ol>
+    <h2>Outras Experiências</h2>
+</body> 
+</html>
